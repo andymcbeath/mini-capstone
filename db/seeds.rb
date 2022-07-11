@@ -1,5 +1,5 @@
-Supplier.create(name: "Amazon", email: "amazon@email.com", phone_number: "243222342")
-Supplier.create(name: "Think Geek", email: "thinkgeek@email.com", phone_number: "5432534")
+# Supplier.create(name: "Amazon", email: "amazon@email.com", phone_number: "243222342")
+# Supplier.create(name: "Think Geek", email: "thinkgeek@email.com", phone_number: "5432534")
 
 # Product.create!([
 #   { name: "WNYX Mug", price: "2.0", image_url: "https://i.pinimg.com/236x/14/4a/0b/144a0bffe37f29f414e2dae2bd0141cf.jpg", description: "Get your morning news once you wake up with a cup of joe from... well Joe. He made it with his homemade duct tape", quantity: nil },
