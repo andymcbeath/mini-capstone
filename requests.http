@@ -41,7 +41,7 @@ POST http://localhost:3000/sessions.json
 Content-Type: application/json
 
 {
-  "email": "amanda@example.com",
+  "email": "scout@example.com",
   "password": "password"
 }
 
@@ -54,3 +54,7 @@ Content-Type: application/json
   "product_id": 2, 
   "quantity": 2
 }
+
+### ORDERS SHOW
+GET http://localhost:3000/orders/1.json
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJleHAiOjE2NTc4MjM5NTF9.0f-WNB4jPxmpYFF_D9ua16X5CqOqNloGt3qib-KnUpA
